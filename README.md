@@ -12,7 +12,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/photoapp.git
+   git clone https://github.com/vvvey/photoapp-aws-s3.git
    cd photoapp
 
 2. **Install Python Requirements**:
